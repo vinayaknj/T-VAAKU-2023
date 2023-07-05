@@ -6,11 +6,11 @@ It is collaboratively developed by Final year Students of Government Engineering
 Developed By :
 
 <br />
-Alan Baby Koshy
-Tashi S S
+Alan Baby Koshy,
+Tashi S S,
 <br />
-Umesh Krishna U R
+Umesh Krishna U R,
 <br />
-Vinayak N J
+Vinayak N J.
 
 UPDATE 2023: UPDATED NEW LIBRARY AND MADE CODE INDENDATION ERROR FREE ACCORDING TO MY ENVIRONMENT. Made some code optimized. 
